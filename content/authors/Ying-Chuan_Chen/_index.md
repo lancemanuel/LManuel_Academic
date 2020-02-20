@@ -25,10 +25,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Civil Engineering
+  - course: Ph.D. in Civil/Structural Engineering
     institution: The University of Texas at Austin
     year: 2019
-  - course: M.S. in Civil Engineering
+  - course: M.S. in Structural Engineering
     institution: National Taiwan University
     year: 2011
   - course: B.S. in Civil Engineering
