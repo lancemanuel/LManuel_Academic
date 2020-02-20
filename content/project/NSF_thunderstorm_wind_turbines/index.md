@@ -1,5 +1,5 @@
 ---
-title: "A retrospective assessment and future projection of thunderstorm impacts on the field performance of wind turbines"  # Add a page title.
+title: "A Retrospective Assessment and Future Projection of Thunderstorm Impacts on the Field Performance of Wind Turbines"  # Add a page title.
 summary: "summary of this project"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
 tags: ["Wind Turbine"]

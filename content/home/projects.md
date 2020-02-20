@@ -33,6 +33,14 @@ subtitle = ""
      name = "Surrogate Model"
      tag = "Surrogate Model"
 
+   [[content.filter_button]]
+     name = "VIV"
+     tag = "VIV"  
+
+   [[content.filter_button]]
+     name = "UQ"
+     tag = "UQ"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
