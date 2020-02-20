@@ -6,7 +6,7 @@ authors:
 - HyeongUk LIm
 
 # Is this the primary user of the site?
-superuser: no
+superuser: yes
 
 # Role/position
 role: Postdoctoral Fellow
@@ -67,5 +67,4 @@ email: ""
 user_groups:
 - Postdoctoral Fellows
 ---
-
-Dr Manuel's research is related to uncertainty quantification ascociated with the modeling and design of engineered systems, mainly civil engineering works and energy-generating structures. His work is focused on improving design criteria for wind turbines for complex inflow turbulence conditions and on the long-term performance of deepwater offshore floating structures. In the past, he undertook research and review work related to probabilistic risk assessment of nuclear power plants and reactors; reliability of dam projects; probabilistic seismic hazard and ground motion analyses; and stochastic response of fixed and floating offshore platforms. Prior to his joining the faculty at UT Austin, Dr Manuel worked as a consulting engineer with Jack R. Benjamin & Associates, Inc. in Mountain View, California, and with Exponent, Inc. - formerly, Failure Analysis Associates - in Menlo Park, California.
+I am working as a postdoctoral fellow under the supervision of Prof. Lance Manuel. I obtained B.E from Kyung Hee University and M.S from KAIST in South Korea. My research has focused on the development of computational methods that address surrogate modeling, sensitivity analysis, and dimension reduction for efficient uncertainty quantification in structural dynamics problems.
