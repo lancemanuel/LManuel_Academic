@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "My Research Group"
 subtitle = ""
 
 [content]
@@ -18,6 +18,7 @@ subtitle = ""
                  "Grad Students",
                  "Administration",
                  "Visitors",
+                 "Collaborators",
                  "Alumni"]
 
 [design]
