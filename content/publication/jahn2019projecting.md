@@ -12,7 +12,7 @@ url_project = "/project/WEC"
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
+[[links]]
     name = "Custom Link"
     url = "http://www.example.org"
 
