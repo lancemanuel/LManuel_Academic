@@ -13,7 +13,11 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
- name = "DOI"
- url = "https://doi.org/10.3390/atmos10120727"
+  name = "DOI"
+  url = "https://doi.org/10.3390/atmos10120727"
+
+[header]
+  caption = ""
+  image = ""
 
 +++
