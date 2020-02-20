@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer
+role: Lecturer at HCMUT
 
 # Organizations/Affiliations
 organizations:
