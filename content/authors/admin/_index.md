@@ -32,7 +32,7 @@ education:
   - course: M.S. in Civil Engineering and Applied Mechanics
     institution: University of Virginia
     year: 1986
-  - course: B. Tech. in Civil Engineering
+  - course: B.Tech. in Civil Engineering
     institution: Indian Institute of Technology, Bombay
     year: 1984
 
