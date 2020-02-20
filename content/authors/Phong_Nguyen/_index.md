@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Alumni
 ---
 PhD student in Civil Engineering, experienced in Structural Engineering, Uncertainty Quantification using simulation-based and metamodel-based methods, and utilities for various tasks within probabilistic risk assessments; reliability analysis of offshore structures under stochastic wind and wave loads; characterizing extreme environment for offshore structures; vulnerability/resilience analysis under extreme climate events. Technical proficiencies include:
 
