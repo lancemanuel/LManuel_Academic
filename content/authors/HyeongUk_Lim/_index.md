@@ -3,7 +3,7 @@
 name: HyeongUk Lim
 # Username (this should match the folder name)
 authors:
-- HyeongUk LIm
+- HyeongUk_LIm
 
 # Is this the primary user of the site?
 superuser: yes
