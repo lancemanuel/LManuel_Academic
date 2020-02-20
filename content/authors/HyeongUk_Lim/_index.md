@@ -14,7 +14,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: The University of Texas at Austin
-  url: "https://hyeonguk.wordpress.com/"
+  url: "https://utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: Uncertainty quantification; structural dynamics; structural reliability

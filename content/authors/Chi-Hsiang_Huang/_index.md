@@ -14,7 +14,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: The University of Texas at Austin
-  url: ""
+  url: "https://utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 

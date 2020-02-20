@@ -2,7 +2,7 @@
 title: "A retrospective assessment and future projection of thunderstorm impacts on the field performance of wind turbines"  # Add a page title.
 summary: "summary of this project"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
-#tags: ["Analysis"]
+tags: ["Wind Turbine"]
 ---
 In wind resource-rich regions such as the U.S. Great Plains, wind energy development in recent years has increased at a brisk rate in recent years. Climatologically, this region is also where severe weather events such as thunderstorms are common; failures of wind turbines in recent events suggest a need for retrospective analysis and re-evaluation of design for associated transient inflow conditions. To meet the nation?s goals of 20% wind energy by 2030 more wind turbines will likely be sited in the Great Plains where failures in extreme weather events are expected; suggested climate change influences on the changing frequency and severity of such events exacerbates concerns about today?s turbine designs.
 
