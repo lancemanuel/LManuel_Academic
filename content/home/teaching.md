@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "Courses that I teach"
+subtitle = "Courses I teach"
 
 [content]
   # Page type to display. E.g. project.
