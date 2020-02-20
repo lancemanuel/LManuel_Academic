@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Texas Atomic Energy Research Foundation Professor of Engineering
+role: TAE Research Foundation Professor of Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,10 @@ education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: Stanford University
-    year: 1993
   - course: M.S. in Civil Engineering and Applied Mechanics
     institution: University of Virginia
-    year: 1986
   - course: B.Tech. in Civil Engineering
     institution: Indian Institute of Technology, Bombay
-    year: 1984
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,10 +47,10 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NvlDB08AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lancemanuel
-# Link to a PDF of your resume/CV from the About widget.
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lancemanuel
+## Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -68,4 +65,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Dr Manuel's research is related to uncertainty quantification ascociated with the modeling and design of engineered systems, mainly civil engineering works and energy-generating structures. His work is focused on improving design criteria for wind turbines for complex inflow turbulence conditions and on the long-term performance of deepwater offshore floating structures. In the past, he undertook research and review work related to probabilistic risk assessment of nuclear power plants and reactors; reliability of dam projects; probabilistic seismic hazard and ground motion analyses; and stochastic response of fixed and floating offshore platforms. Prior to his joining the faculty at UT Austin, Dr Manuel worked as a consulting engineer with Jack R. Benjamin & Associates, Inc. in Mountain View, California, and with Exponent, Inc. - formerly, Failure Analysis Associates - in Menlo Park, California.
+Dr Manuel's research is related to uncertainty quantification ascociated with the modeling and design of engineered systems, mainly civil engineering works and energy-generating structures. His work is focused on improving design criteria for wind turbines for complex inflow turbulence conditions and on the long-term performance of deepwater offshore floating structures. Past research and review work has been related to probabilistic risk assessment of nuclear power plants and reactors; reliability of dam projects; probabilistic seismic hazard and ground motion analyses; and stochastic response of fixed and floating offshore platforms. Prior to his joining the faculty at UT Austin, Dr Manuel worked as a consulting engineer with Jack R. Benjamin & Associates, Inc. in Mountain View, California, and with Exponent, Inc. - formerly, Failure Analysis Associates - in Menlo Park, California.
