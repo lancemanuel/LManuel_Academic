@@ -1,23 +1,23 @@
 ---
 # Display name
-name: Lance Manuel
+name: Nan-You Lu
 # Username (this should match the folder name)
 authors:
-- admin
+- Nan-You_Lu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Texas Atomic Energy Research Foundation Professor of Engineering
+role: Seismic Imaging Analyst at CGG
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
-  url: "https://www.utexas.edu/"
+- name: CGG
+  url: "https://www.cgg.com/"
 
 # Short bio (displayed in user profile at end of posts)
-Technical Interests: Random vibration; structural dynamics; structural reliability; atmospheric inflow turbulence simulation for wind turbine loads analysis; computational methods for windstorm field generation; performance of deepwater offshore platforms; probabilistic seismic hazard analysis
+
 
 interests:
 - Interest 1
@@ -27,32 +27,32 @@ interests:
 education:
   courses:
   - course: Ph.D. in Civil Engineering
-    institution: Stanford University
-    year: 1993
-  - course: M.S. in Civil Engineering and Applied Mechanics
-    institution: University of Virginia
-    year: 1986
-  - course: B.Tech. in Civil Engineering
-    institution: Indian Institute of Technology, Bombay
-    year: 1984
+    institution: The University of Texas at Austin
+    year: 2019
+  - course: M.S. in Mechanical Engineering
+    institution: National Taiwan University
+    year: 2009
+  - course: B.S. in Mechanical Engineering
+    institution: National Taiwan University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:lmanuel@mail.utexas.edu".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:lmanuel@mail.utexas.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=NvlDB08AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lancemanuel
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=NvlDB08AAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lancemanuel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Alumni
 ---
-
-Dr Manuel's research is related to uncertainty quantification ascociated with the modeling and design of engineered systems, mainly civil engineering works and energy-generating structures. His work is focused on improving design criteria for wind turbines for complex inflow turbulence conditions and on the long-term performance of deepwater offshore floating structures. In the past, he undertook research and review work related to probabilistic risk assessment of nuclear power plants and reactors; reliability of dam projects; probabilistic seismic hazard and ground motion analyses; and stochastic response of fixed and floating offshore platforms. Prior to his joining the faculty at UT Austin, Dr Manuel worked as a consulting engineer with Jack R. Benjamin & Associates, Inc. in Mountain View, California, and with Exponent, Inc. - formerly, Failure Analysis Associates - in Menlo Park, California.
+A bilingual senior CAE/mechanical engineer in server chassis/fan design industry for 3.5 years with specializations on structural FEA and solution-oriented shock & vib. analysis. PhD degree at UT Austin working on multi-physics problems with structural reliability analysis and CFD simulations. Recognized for professional modeling skills using ANSYS/Hypermesh to perform static/transient/modal simulations, CAD design expertise using Creo/Soliworks and strong project-management/problem-solving skills. 
