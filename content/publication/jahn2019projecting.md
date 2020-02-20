@@ -1,5 +1,5 @@
 ---
-title: "Extreme Climate Modeling of a Two-Body Point Absorber Wave Energy Converter"  # Add a page title.
+title: Extreme Climate Modeling of a Two-Body Point Absorber Wave Energy Converter
 date: "2019-12"  # the date that your publication was first published
 publication_types: "2"
 publication: "*Atmosphere*"
