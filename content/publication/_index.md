@@ -1,15 +1,16 @@
 ---
-title: Papers NEW
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+title: "Extreme Climate Modeling of a Two-Body Point Absorber Wave Energy Converter"  # Add a page title.
+date: "2019-12"  # the date that your publication was first published (must be in a valid TOML date format)
+publication_types: 2
+#0 = Uncategorized
+#1 = Conference paper
+#2 = Journal article
+#3 = Preprint / Working Paper
+#4 = Report
+#5 = Book
+#6 = Book section
+#7 = Thesis (v4.2+ required)
+#8 = Patent (v4.2+ required)
+publication: *Atmosphere*
+abstract: Climate studies based on global climate models (GCMs) project a steady increase in annual average temperature and severe heat extremes in central North America during the mid-century and beyond. However, the agreement of observed trends with climate model trends varies substantially across the region. The present study focuses on two different locations: Des Moines, IA and Austin, TX. In Des Moines, annual extreme temperatures have not increased over the past three decades unlike the trend of regionally-downscaled GCM data for the Midwest, likely due to a “warming hole” over the area linked to agricultural factors. This warming hole effect is not evident for Austin over the same time period, where extreme temperatures have been higher than projected by regionally-downscaled climate (RDC) forecasts. In consideration of the deviation of such RDC extreme temperature forecasts from observations, this study statistically analyzes RDC data in conjunction with observational data to define for these two cities a 95% prediction interval of heat extreme values by 2040. The statistical model is constructed using a linear combination of RDC ensemble-member annual extreme temperature forecasts with regression coefficients for individual forecasts estimated by optimizing model results against observations over a 52-year training period.
 ---
