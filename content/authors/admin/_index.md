@@ -28,13 +28,10 @@ education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: Stanford University
-    year: 1993
   - course: M.S. in Civil Engineering and Applied Mechanics
     institution: University of Virginia
-    year: 1986
   - course: B.Tech. in Civil Engineering
     institution: Indian Institute of Technology, Bombay
-    year: 1984
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,10 +47,10 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NvlDB08AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lancemanuel
-# Link to a PDF of your resume/CV from the About widget.
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lancemanuel
+## Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
