@@ -6,7 +6,7 @@ authors:
 - HyeongUk_LIm
 
 # Is this the primary user of the site?
-superuser: yes
+superuser: false
 
 # Role/position
 role: Postdoctoral Fellow
