@@ -6,8 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "[test](https://lancemanuel.netlify.com/post/affiliation2/)"
-summary = "test2"
+subtitle = "[More to see](https://lancemanuel.netlify.com/project/)"
 
 [content]
   # Page type to display. E.g. project.
