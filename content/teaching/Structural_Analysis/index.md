@@ -10,7 +10,7 @@ summary: "CE 329"  # Add a page description.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 1
+  placement: 2
   caption: ""
   focal_point: "Center"
   preview_only: false
