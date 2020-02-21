@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Jae Sang Moon
+name: Eungsoo Kim
 # Username (this should match the folder name)
 authors:
-- Jae_Sang_Moon
+- Eungsoo_Kim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Structural/Wind Engineer at Yooshin Eng Co.
+role: Senior Researcher at POSCO
 
 # Organizations/Affiliations
 organizations:
-- name: Yooshin Engineering Co.
-  url: "http://www.yooshin.co.kr/english/"
+- name: POSCO
+  url: "http://www.posco.com"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -28,13 +28,13 @@ education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: The University of Texas at Austin
-    year: 2016
-  - course: M.E. in Civil Engineering
-    institution: Seoul National University
-    year: 2010
-  - course: B.S. in Civil Engineering
-    institution: Seoul National University
+    year: 2015
+  - course: M.S. in Architectural Engineering
+    institution: Hanyang University
     year: 2008
+  - course: B.S. in Architectural Engineering
+    institution: Hanyang University
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,17 +67,3 @@ email: ""
 user_groups:
 - Alumni
 ---
-I'm researcher/engineer specialized in numerical analysis/modeling/simulation of physical features. Specifically, I have been working on following areas:
-
-- Stochastic modeling/analysis of turbine-generated wake field.  
-- Analysis/Simulation of dynamic features (wind field, seismic loading) based on stochastic methods.  
-- Time/Frequency domain analysis of MDOF structures (Wind Turbine, building, bridge).  
-- Optimization technique (Iterative, heuristic, and combinatorial algorithms)  
-- CFD: Large eddy simulation of atmospheric field and wind turbine.  
-- FEM: Analysis of structures(blades, structures) using commercial programs.  
-- Statistical analysis and Reliability based modeling of physical features.  
-- Data processing using parallel computation.  
-- High performance computation.  
-- Wind tunnel testing.  
-- Wind turbine blade design and performance analysis.  
-- Wind farm site assessment: GIS based analysis  
