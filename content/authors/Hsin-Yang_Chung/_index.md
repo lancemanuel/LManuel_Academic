@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Hsin-Yang Chung
+name: Korn Saranyasoontorn
 # Username (this should match the folder name)
 authors:
-- Hsin-Yang_Chung
+- Korn_Saranyasoontorn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor at NCKU
+role: Team Leader at PTTEP
 
 # Organizations/Affiliations
 organizations:
-- name: Associate Professor at National Cheng Kung University
-  url: "https://www.civil.ncku.edu.tw/"
+- name: Team Leader, Subsea and Pipeline Engineering at PTTEP
+  url: "https://www.pttep.com/"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -28,13 +28,13 @@ education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: The University of Texas at Austin
-    year: 2004
-  #- course: M.S. in Civil Engineering
-  #  institution: Asian Institute of Technology
-  #  year: 
-  #- course: B.E. in Civil Engineering
-  #  institution: Chulalongkorn University
-  #  year: 
+    year: 
+  - course: M.S. in Civil Engineering
+    institution: Asian Institute of Technology
+    year: 
+  - course: B.E. in Civil Engineering
+    institution: Chulalongkorn University
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,9 +67,7 @@ email: ""
 user_groups:
 - Alumni
 ---
-- Bridge Engineering  
-- Digital Image Applications in Civil Engineering  
-- Fatigue & Fracture Analysis  
-- FE Simulation & Analysis  
-- Large-Scale Structural Tests  
-- Steel Structures in Fire
+- Broad range of experience in design, analysis, installation, operation and maintenance of offshore facilities, subsea pipelines, dynamic risers and flexible pipes  
+- Working knowledge of integrity management, corrosion management and flow assurance strategies for complex subsea production system and dry-tree system in deep waters  
+- Project and operation experiences from Gulf of Mexico, Campos Basin, Norwegian Sea, W. Africa  
+- Project examples - BP Thunder Horse, Chevron Tahiti, Petrobras PDET 
