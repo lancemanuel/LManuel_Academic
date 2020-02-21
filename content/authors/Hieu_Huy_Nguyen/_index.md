@@ -13,7 +13,7 @@ role: Senior Structural Engineer at DNV GL
 
 # Organizations/Affiliations
 organizations:
-- name: Senior Structural Engineer at DNV GL - Renewables
+- name: DNV GL - Renewables
   url: "https://www.dnvgl.com/"
 
 # Short bio (displayed in user profile at end of posts)

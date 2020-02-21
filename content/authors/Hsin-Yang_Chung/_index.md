@@ -13,7 +13,7 @@ role: Associate Professor at NCKU
 
 # Organizations/Affiliations
 organizations:
-- name: Associate Professor at National Cheng Kung University
+- name: National Cheng Kung University
   url: "https://www.civil.ncku.edu.tw/"
 
 # Short bio (displayed in user profile at end of posts)

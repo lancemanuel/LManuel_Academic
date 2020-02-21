@@ -13,7 +13,7 @@ role: Manager at Omega-risk
 
 # Organizations/Affiliations
 organizations:
-- name: Manager at Omega-risk
+- name: Omega-risk
   url: "https://www.omega-risk.com/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -13,7 +13,7 @@ role: Associate Professor at China University of Petroleum
 
 # Organizations/Affiliations
 organizations:
-- name: Associate Professor at China University of Petroleum (East China)
+- name: China University of Petroleum (East China)
   url: "http://english.upc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -13,7 +13,7 @@ role: Team Leader at PTTEP
 
 # Organizations/Affiliations
 organizations:
-- name: Team Leader, Subsea and Pipeline Engineering at PTTEP
+- name: PTTEP
   url: "https://www.pttep.com/"
 
 # Short bio (displayed in user profile at end of posts)
