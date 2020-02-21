@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Influence of Coupled Wind, Wave, and Current Fields on Bottom-Supported Offshore Wind Turbines During Hurricanes"  # Add a page title.
-summary: "summary of this project"  # Add a page description.
+summary: "U.S. Department of Energy"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
 tags: ["Wind Turbine"]
 ---

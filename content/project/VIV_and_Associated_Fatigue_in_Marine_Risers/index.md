@@ -1,6 +1,6 @@
 ---
 title: "Vortex-Induced Vibration and Associated Fatigue in Marine Risers"  # Add a page title.
-summary: "summary of this project"  # Add a page description.
+summary: "BP America Production Company"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
 tags: ["VIV"]
 ---

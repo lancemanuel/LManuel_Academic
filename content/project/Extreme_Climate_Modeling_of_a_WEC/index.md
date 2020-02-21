@@ -1,6 +1,6 @@
 ---
 title: "Extreme Climate Modeling of a Two-Body Point Absorber Wave Energy Converter"  # Add a page title.
-summary: "summary of this project"  # Add a page description.
+summary: "Sandia National Laboratories"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
 #tags: ["Analysis"]
 ---
