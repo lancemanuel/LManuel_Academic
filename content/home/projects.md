@@ -7,6 +7,7 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "[test](https://lancemanuel.netlify.com/post/affiliation2/)"
+summary = "test2"
 
 [content]
   # Page type to display. E.g. project.
