@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "[test](https://lancemanuel.netlify.com/post/affiliation2/)"
 
 [content]
   # Page type to display. E.g. project.
@@ -82,5 +82,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-[test]({{< ref "/post/affiliation2.md" >}})
