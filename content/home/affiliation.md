@@ -1,5 +1,5 @@
 +++
-title: Other activities at UT that I'm involved with:
+title= "Other activities at UT that I'm involved with:"
 +++
 
 Advisor, CAEE Deparment Honors Program Advisor
