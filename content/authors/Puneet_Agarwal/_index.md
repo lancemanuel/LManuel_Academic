@@ -14,7 +14,7 @@ role: Research Engineer at ExxonMobil
 # Organizations/Affiliations
 organizations:
 - name: Research Engineer, Marine & Mechanics at ExxonMobil Upstream Research Company
-  url: "https://www.dnvgl.com/"
+  url: "https://corporate.exxonmobil.com/"
 
 # Short bio (displayed in user profile at end of posts)
 
