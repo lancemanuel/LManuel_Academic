@@ -25,13 +25,13 @@ subtitle = "Courses I teach"
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+     name = "Undergraduate"
+     tag = "Undergraduate"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+     name = "Graduate"
+     tag = "Graduate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
