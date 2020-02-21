@@ -1,5 +1,5 @@
 ---
-title: "Probability and Statistics for Civil Engineers"  # Add a page title.
+title: "Prob and Stat for Civil Engineers"  # Add a page title.
 summary: "CE 311S"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
 #tags: ["Analysis"]
