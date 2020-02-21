@@ -67,7 +67,7 @@ email: ""
 user_groups:
 - Alumni
 ---
-PhD student in Civil Engineering, experienced in Structural Engineering, Uncertainty Quantification using simulation-based and metamodel-based methods, and utilities for various tasks within probabilistic risk assessments; reliability analysis of offshore structures under stochastic wind and wave loads; characterizing extreme environment for offshore structures; vulnerability/resilience analysis under extreme climate events. Technical proficiencies include:
+PhD in Civil Engineering, experienced in Structural Engineering, Uncertainty Quantification using simulation-based and metamodel-based methods, and utilities for various tasks within probabilistic risk assessments; reliability analysis of offshore structures under stochastic wind and wave loads; characterizing extreme environment for offshore structures; vulnerability/resilience analysis under extreme climate events. Technical proficiencies include:
 
 Methodologies: Environmental contours, FORM/I-FORM, stochastic simulation (MCS, Important sampling, variance reduction sampling techniques), surrogate models (polynomial chaos expansion, low-rank tensor, stochastic colocation, Gaussian process) for uncertainty propagation and sensitivity analysis, data-driven models, dimension reduction (slice inverse regression, active subspace, PCA, ICA), structural dynamics, finite element methods, numerical methods for linear and nonlinear systems.
 

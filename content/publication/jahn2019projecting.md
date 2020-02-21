@@ -8,7 +8,7 @@ abstract= "Climate studies based on global climate models (GCMs) project a stead
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = "/project/WEC"
+url_project = "/project/Extreme_Climate_Modeling_of_a_WEC"
 url_slides = ""
 url_video = ""
 
