@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lmanuel@mail.utexas.edu"
-phone = "512.232.5691"
+phone = "+1.512.232.5691"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -90,10 +90,10 @@ address = {street = "301 E. Dean Keeton St., Stop C1747", city = "Austin", regio
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.289232", longitude = "-97.735446"}
+coordinates = {latitude = "30.289384", longitude = "-97.735609"}
 
 # Directions for visitors to locate you.
-directions = "Ernest Cockrell, Jr. Hall – ECJ 4.726"
+directions = "Ernest Cockrell, Jr. Hall - ECJ 4.726"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -256,7 +256,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 15
 
