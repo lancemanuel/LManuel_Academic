@@ -7,11 +7,10 @@ weight = 60  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = "Courses I teach"
-summary = "[More to see]({{< ref "https://lancemanuel.netlify.com/teaching" >}})"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "teaching_selected"
+  page_type = "teaching"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,13 +25,13 @@ summary = "[More to see]({{< ref "https://lancemanuel.netlify.com/teaching" >}})
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+     name = "Undergraduate"
+     tag = "Undergraduate"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+     name = "Graduate"
+     tag = "Graduate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
