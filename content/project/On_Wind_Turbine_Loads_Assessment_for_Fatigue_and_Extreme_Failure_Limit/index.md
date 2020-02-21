@@ -2,7 +2,7 @@
 title: "On Wind Turbine Loads Assessment for Fatigue and Extreme Failure Limit States in Contrasting Atmospheric Stability Conditions"  # Add a page title.
 summary: "National Science Foundation"  # Add a page description.
 #date: "2019-12-01"  # Add today's date.
-tags: ["Wind Turbine"]
+#tags: ["Wind Turbine"]
 ---
 In the last decade, wind energy has witnessed faster growth than all other renewable energy sectors, with over 25% annual growth. While this is encouraging news, there are also three technical challenges facing wind energy. First, models used in the design process for simulating turbulence do not cover the range of atmospheric conditions likely to introduce critical events (e.g., high shear across a turbine rotor), especially in the Great Plains region. Second, wind turbines in service are aging, and failures, especially due to fatigue of composite materials used for blades, demand attention. Finally, refinements in design philosophy and practice are needed that are informed by state-of-the-art capabilities in atmospheric boundary layer modeling and stochastic wind turbine aeroelastic response simulation.
 
