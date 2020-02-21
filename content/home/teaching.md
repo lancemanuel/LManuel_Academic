@@ -7,6 +7,7 @@ weight = 60  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = "Courses I teach"
+summary = "[More to see]({{< ref "https://lancemanuel.netlify.com/teaching" >}})"
 
 [content]
   # Page type to display. E.g. project.
