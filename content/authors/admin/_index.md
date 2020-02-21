@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "TAE Research Foundation", "Professor of Engineering"
+role: TAE Research Foundation Professor of Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -47,6 +47,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NvlDB08AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lancemanuel/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/lancemanuel
