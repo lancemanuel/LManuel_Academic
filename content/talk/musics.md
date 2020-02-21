@@ -10,7 +10,7 @@ url_dataset = ""
 url_pdf = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=AE3kKUEY5WU"
 
 [[links]]
     name = "YouTube"
