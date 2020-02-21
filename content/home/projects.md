@@ -83,3 +83,4 @@ subtitle = ""
  css_class = ""
 +++
 
+[test]({{< ref "/post/affiliation2.md" >}})
