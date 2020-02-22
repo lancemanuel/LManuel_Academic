@@ -7,8 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "and, finally, some random (okay, old) music &#x266B samplings as well as other stuff, as long as you're here ...
-"
+title = "and, finally, some random (okay, old) music &#x266B samplings as well as other stuff, as long as you're here ..."
 subtitle = "Here are ..."
 
 [content]
