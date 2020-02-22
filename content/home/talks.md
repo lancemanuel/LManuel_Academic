@@ -67,3 +67,4 @@ subtitle = "and, finally, some random (okay, old) music &#x266B samplings as wel
  # CSS class.
  css_class = ""
 +++
+[enjoy!](https://lancemanuel.netlify.com/talk/tunes/)
