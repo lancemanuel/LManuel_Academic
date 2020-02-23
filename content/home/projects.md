@@ -34,6 +34,10 @@ subtitle = "[More to see](https://lancemanuel.netlify.com/project/)"
      tag = "Surrogate Model"
 
    [[content.filter_button]]
+     name = "Extreme Heat"
+     tag = "Extreme Heat"
+
+   [[content.filter_button]]
      name = "VIV"
      tag = "VIV"  
 
