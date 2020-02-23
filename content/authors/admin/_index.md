@@ -17,12 +17,12 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-Technical Interests: Random vibration; structural dynamics; structural reliability; atmospheric inflow turbulence simulation for wind turbine loads analysis; computational methods for windstorm field generation; performance of deepwater offshore platforms; probabilistic seismic hazard analysis
+Technical Interests: Uncertainty quantification; random vibration; structural dynamics; structural reliability; atmospheric inflow turbulence simulation for wind turbine loads analysis; deepwater floating offshore platforms; probabilistic seismic hazard analysis
 
 interests:
-- Interest 1
-- Interest 2
-- Interest 3
+- Uncertainty Quantification
+- Wind Energy
+- Offshore Structures
 
 education:
   courses:
