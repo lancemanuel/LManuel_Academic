@@ -6,8 +6,8 @@ lastmod = ""
 
 ... still here?  OK. Here are the random (mostly old, obscure and weird) music &#x266B samplings, as long as you're here ...
 ... this began as a compilation to share a long time ago (don't ask why) ...<br>
-[Paul Simon - American Tune (1975)](https://www.youtube.com/watch?v=AE3kKUEY5WU)
-[Blaze Foley - Clay Pigeons (2005)](https://www.youtube.com/watch?v=KB_2CUj3y6Y")
+[Paul Simon - American Tune (1975)](https://www.youtube.com/watch?v=AE3kKUEY5WU)<br>
+[Blaze Foley - Clay Pigeons (2005)](https://www.youtube.com/watch?v=KB_2CUj3y6Y")<br>
 [Supertramp - Give a Little Bit (1977)](https://www.youtube.com/watch?v=wptWEHGPhOk")
 [Leo&#353 Jan&#225&#269ek - In the Mists (1912)](https://www.youtube.com/watch?v=_lFekGwREs4")
 [Man&#225 - En el muelle de San Bl&#225s (1998)](https://www.youtube.com/watch?v=teprNzF6J1I")
