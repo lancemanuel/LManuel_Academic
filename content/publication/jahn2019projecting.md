@@ -1,5 +1,5 @@
 +++
-title = "Extreme Climate Modeling of a Two-Body Point Absorber Wave Energy Converter"
+title = "Projecting the Most Likely Annual Urban Heat Extremes in the Central United States"
 authors = ["David Jahn","William Gallus","Phong_Nguyen","Qiyun Pan","Kristen Cetin","Eunshin Byon","admin","Yuyu Zhou","Elham Jahani"]
 publication = "*Atmosphere*, 10(12)"
 date = "2019-11-20"
@@ -8,7 +8,7 @@ abstract= "Climate studies based on global climate models (GCMs) project a stead
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = "/project/Extreme_Climate_Modeling_of_a_WEC"
+url_project = "/project/A_Framework_for_Assessing_the_Impact_of_Extreme_Heat_and_Drought_on_Urban_Energy_Production_and_Consumption"
 url_slides = ""
 url_video = ""
 
