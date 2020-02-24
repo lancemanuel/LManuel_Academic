@@ -4,7 +4,7 @@ headless = true  # Homepage is headless, other widget pages are not.
 lastmod = ""
 +++
 
-... still here?  OK. Here are the random (mostly old, obscure and weird) music &#x266B samplings, as long as you're here ...
+... still here?  OK. Here are the random (mostly old, obscure and weird) music &#x266B samplings, as long as you're here ...<br>
 ... this began as a compilation to share a long time ago (don't ask why) ...<br>
 [Paul Simon - American Tune (1975)](https://www.youtube.com/watch?v=AE3kKUEY5WU)<br>
 [Blaze Foley - Clay Pigeons (2005)](https://www.youtube.com/watch?v=KB_2CUj3y6Y")<br>
@@ -19,6 +19,7 @@ lastmod = ""
 [The Pretenders - Back on the Chain Gang (1982)](https://www.youtube.com/watch?v=CK3uf5V0pDA&")<br>
 [David Bowie - Space Oddity (1972)](https://www.youtube.com/watch?v=iYYRH4apXDo")<br>
 [Midnight Oil - Beds are Burning (1987)](https://www.youtube.com/watch?v=ejorQVy3m8E")<br>
+<br>
 and some voice, chants, a cappella, arias, unpluggeds, amateur arrangements, etc. ...<br>
 [Starman (David Bowie) ... cover by Josh Turner](https://www.youtube.com/watch?v=dxI7QfoCO3s")<br>
 [Bohemian Rhapsody (Queen) ... a capella cover](https://www.youtube.com/watch?v=I7v5gpWe8ds")<br>
