@@ -65,11 +65,11 @@ Annie Lennox<br>
 Man&aacute<br>
 Van Morrison<br>
 The Beatles<br>
-The Cure <a class="1" href="https://www.youtube.com/watch?v=Dt7oMSOB7nw&list=RDEMLUGe1lzhB7MnQLLEheFTww&index=11" target="_blank">1</a><br>
+The Cure <a class="1" href="https://www.youtube.com/watch?v=Dt7oMSOB7nw&list=RDEMLUGe1lzhB7MnQLLEheFTww&index=11" target="_blank"> 1 </a><br>
 The Police<br>
 The Pretenders<br>
 Tabu Ley Rochereau<br>
-The Smiths<br>
+The Smiths <a class="1" href="https://www.youtube.com/watch?v=hz0UADjaHKo&list=RDEMZRBmdKVSaLwvx0hRMgtXvg&index=12" target="_blank"> 1 </a><a class="1" href="https://www.youtube.com/watch?v=SckD99B51IA&list=RDEMZRBmdKVSaLwvx0hRMgtXvg&index=14" target="_blank"> 2 </a><br>
 Suma Paz<br>
 John Prine<br>
 Mercedes Sosa<br>
