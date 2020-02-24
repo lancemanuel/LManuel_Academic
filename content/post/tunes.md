@@ -47,4 +47,36 @@ podcasts:<br>
 Radiolab<br>
 The Moth<br>
 <br>
+genius artists/bands - you may not agree:<br>
+Chet Baker<br>
+Clifford Brown<br>
+Guy Clark<br>
+Robert Cray<br>
+Miles Davis<br>
+Ces&aacuteria &Eacutevora<br>
+Enanitos Verdes <a class="1" href="https://www.youtube.com/watch?v=mSBo57dQwSY&list=RDEMWzsBFrM1G6O0x93sFkgUtg&index=2" target="_blank">1</a><br>
+Ibrahim Ferrer<br>
+Blaze Foley<br>
+Robert Johnson<br>
+Ibrahim Ferrer<br>
+Talking Heads<br>
+John Lee Hooker<br>
+Annie Lennox<br>
+Man&aacute<br>
+Van Morrison<br>
+The Beatles<br>
+The Cure <a class="1" href="https://www.youtube.com/watch?v=Dt7oMSOB7nw&list=RDEMLUGe1lzhB7MnQLLEheFTww&index=11" target="_blank">1</a><br>
+The Police<br>
+The Pretenders<br>
+Tabu Ley Rochereau<br>
+The Smiths<br>
+Suma Paz<br>
+John Prine<br>
+Mercedes Sosa<br>
+Otto Tolonen<br>
+Ali Farka Tour&eacute<br>
+Josh Turner Guitar, not the other <a class="1" href="https://www.youtube.com/watch?v=NtYKjQLgnOs" target="_blank">1 (what a cover!)</a>
+<br>
+Tom Waits<br>
+Atahualpa Yupanqui<br>
 
