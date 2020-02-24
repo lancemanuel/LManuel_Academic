@@ -75,7 +75,7 @@ John Prine<br>
 Mercedes Sosa<br>
 Otto Tolonen<br>
 Ali Farka Tour&eacute<br>
-Josh Turner Guitar, not the other <a class="1" href="https://www.youtube.com/watch?v=NtYKjQLgnOs" target="_blank">1 (what a cover!)</a>
+Josh Turner Guitar, not the other (country) Josh Turner <a class="1" href="https://www.youtube.com/watch?v=NtYKjQLgnOs" target="_blank">1 (what a cover!)</a>
 <br>
 Tom Waits<br>
 Atahualpa Yupanqui<br>
