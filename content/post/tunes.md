@@ -28,4 +28,23 @@ and some voice, chants, a cappella, arias, unpluggeds, amateur arrangements, etc
 [Kathy's Song (Simon/Garfunkel)](https://www.youtube.com/watch?v=fXZyDtzDJMY")<br>
 [New Coat of Paint (Tom Waits)](https://www.youtube.com/watch?v=mpUa2a5Kg3A")<br>
 [L'amer&#242 sar&#242 costante (Mozart - Sonya Yoncheva)](https://www.youtube.com/watch?v=KvMfBcai6DA")<br>
+<br>
+movies:<br>
+O Brother, Where Art Thou?<br>
+<br>
+tv series:<br>
+Monk<br>
+The IT Crowd<br>
+Death in Paradise<br>
+<br>
+books/authors:<br>
+Light in August - William Faulkner<br>
+Waiting - Ha Jin<br>
+The Alchemist - Paulo Coelho<br>
+The Journey of Ibn Fattouma - Naguib Mahfouz [sample: The darkness began to clear and streaks of light loomed on the horizon until it became tinged with a smiling redness, and the eyebrow of the sun emerged, unrolling light over a limitless desert.]<br>
+<br>
+podcasts:<br>
+Radiolab<br>
+The Moth<br>
+<br>
 
