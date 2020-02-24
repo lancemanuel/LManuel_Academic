@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
 title = ""
-subtitle = "and, finally, some random (okay, old) music &#x266B samplings as well as other stuff, as long as you're here ..."
+subtitle = "... finally, some random (okay, old) music &#x266B samplings and other stuff, as long as you're here ..."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
