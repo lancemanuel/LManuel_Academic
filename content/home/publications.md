@@ -28,8 +28,6 @@ subtitle = "List of selected publications"
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
-    journal = ""
     exclude_featured = false
   
 [design]
