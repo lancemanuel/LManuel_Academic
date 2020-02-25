@@ -27,7 +27,7 @@ subtitle = "List of selected publications"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "publication_types"
+    publication_type = ""
     exclude_featured = false
   
 [design]
