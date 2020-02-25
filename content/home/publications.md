@@ -66,4 +66,4 @@ subtitle = "List of selected publications"
  css_class = ""
 +++
 
-[More to see]({{< ref "/publication/_index.md" >}}).
+[Full list]({{< ref "/publication/_index.md" >}})
