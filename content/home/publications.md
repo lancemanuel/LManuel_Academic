@@ -28,7 +28,7 @@ subtitle = "List of selected publications"
     tag = ""
     category = ""
     publication_type = ""
-    author = "authors"
+    author = ""
     exclude_featured = false
   
 [design]
