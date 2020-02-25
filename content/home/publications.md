@@ -65,5 +65,3 @@ subtitle = "List of selected publications"
  # CSS class.
  css_class = ""
 +++
-
-[Full list]({{< ref "/publication/_index.md" >}})
