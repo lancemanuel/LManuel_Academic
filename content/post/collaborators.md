@@ -3,14 +3,14 @@ title= "Research collaborators and co-authors in various places:"
 +++
 
 ### US
-- Steve Winterstein, Probability-Based Engineering, Menlo Park, CA
-- Shuyi Chen, RSMAS, Miami, FL
-- Mark Donelan, RSMAS, Miami, FL
-- Matthew Barone, Sandia National Laboratories, Albuquerque, NM
-- Ryan Coe, Sandia National Laboratories, Albuquerque, NM
-- Patrick Hawbecker, National Center for Atmospheric Research, Boulder, CO
-- Krish Thiagarajan, University of Massachusetts - Amherst
-- Paul Veers, National Renewable Energy Laboratory, Boulder, CO
+- [Steve Winterstein](https://sites.google.com/site/stevewinterstein/), Probability-Based Engineering, Menlo Park, CA
+- [Shuyi Chen](https://orca.atmos.washington.edu/), University of Washington, Seattle, WA
+- [Mark Donelan](https://scholar.google.com/citations?user=SQo1AQEAAAAJ&hl=en), RSMAS, Miami, FL
+- [Matthew Barone](https://www.linkedin.com/in/matt-barone-5b70035/), Sandia National Laboratories, Albuquerque, NM
+- [Ryan Coe](https://energy.sandia.gov/staff-directory/ryan-coe/), Sandia National Laboratories, Albuquerque, NM
+- [Patrick Hawbecker](https://patrickhawbecker.com/), National Center for Atmospheric Research, Boulder, CO
+- [Krish Thiagarajan](https://mie.umass.edu/faculty/krish-thiagarajan-sharman), University of Massachusetts - Amherst, Amherst, MA
+- [Paul Veers](https://www.nrel.gov/research/paul-veers.html), National Renewable Energy Laboratory, Boulder, CO
 
 ### Europe
 - Sukanta Basu, Delft University of Technology, The Netherlands
