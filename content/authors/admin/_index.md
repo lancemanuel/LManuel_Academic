@@ -72,4 +72,5 @@ My research at UT-Austin, these days, is related to uncertainty quantification a
 
 [- Other activities at UT that I'm involved with](https://lancemanuel.netlify.com/post/affiliation/)  
 [- Professional affiliations, technical committees, and journal affiliations](https://lancemanuel.netlify.com/post/affiliation2/)  
-[- Research collaborators and co-authors in various places](https://lancemanuel.netlify.com/post/collaborators/)
+[- Research collaborators and co-authors in various places](https://lancemanuel.netlify.com/post/collaborators/)  
+[- Visitors in research group](https://lancemanuel.netlify.com/post/visitors/)
