@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Edwin Thomas
+name: Mohit Soni
 # Username (this should match the folder name)
 authors:
-- Edwin_Thomas
+- Mohit_Soni
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate II at Datum Engineers
+role: Senior Structural Engineer at AqualisBraemar
 
 # Organizations/Affiliations
 organizations:
-- name: Datum Engineers
-  url: "https://www.datumengineers.com/"
+- name: AqualisBraemar
+  url: "https://aqualisbraemar.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Civil Engineering
+  - course: M.S. in Structural Engineering
     institution: The University of Texas at Austin
-    year: 2015
-  - course: B.S. in Civil Engineering
-    institution: University of Pune
-    year: 2011
+    year: 2014
+  - course: B.Tech. in Civil Engineering
+    institution: Indian Institute of Technology, Roorkee
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,3 +64,10 @@ email: ""
 user_groups:
 - Alumni
 ---
+I am a seasoned engineer with 5+ years' experience who loves to innovate & solve problems, always eager to learn, and find new adventures along the way. I have experience working in energy industry ranging from Project Management to Advanced Engineering Analyses. I have spent the last 5+ years helping develop solutions in energy through advanced engineering & project management.
+
+With my refined skill sets, I bring value to the team to deliver customer-centric services and products. My curiosity and thirst for knowledge drives me to be a fast and lifelong learner.
+
+I earned my MS in Structural Engineering at UT Austin, with focus on wind energy, and B.Tech in Civil Engineering from IIT Roorkee.
+
+I enjoy all things Space, personal automation projects, and talking about the future of energy and technology. 
