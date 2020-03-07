@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Jarred Canning
+name: Edwin Thomas
 # Username (this should match the folder name)
 authors:
-- Jarred_Canning
+- Edwin_Thomas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Engineer II at ASEC
+role: Associate II at Datum Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: ASEC Inc.
-  url: "https://asec-engineers.com/"
+- name: Datum Engineers.
+  url: "https://www.datumengineers.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
@@ -28,10 +28,10 @@ education:
   courses:
   - course: M.S. in Civil Engineering
     institution: The University of Texas at Austin
-    year: 2017
+    year: 2015
   - course: B.S. in Civil Engineering
-    institution: The University of Texas at Austin
-    year: 2016
+    institution: University of Pune
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
