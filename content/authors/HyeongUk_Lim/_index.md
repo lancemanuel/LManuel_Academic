@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Upstream Data Analyst
+role: Upstream Data Analyst at Stress Engineering Services, Inc.
 
 # Organizations/Affiliations
 organizations:
