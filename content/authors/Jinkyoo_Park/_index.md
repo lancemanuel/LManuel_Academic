@@ -70,7 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-----
+---
 Research Interests:
 - Development of data-driven, probabilistic optimization algorithms
 - Big data analytics using sparse and local 
