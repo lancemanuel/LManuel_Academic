@@ -1,5 +1,5 @@
 +++
-title = "A Continuing Series on the Journal's Associate Editors"
+title = "A Continuing Series on the Journals Associate Editors"
 authors = ["admin"]
 publication = "*Journal of Offshore Mechanics and Arctic Engineering*, 142(4)"
 publication_types = ["2"] # 2: journal
