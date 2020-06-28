@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Engineer
 
 # Organizations/Affiliations
 organizations:
