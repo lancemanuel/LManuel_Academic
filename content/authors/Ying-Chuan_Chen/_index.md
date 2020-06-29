@@ -66,4 +66,4 @@ email: ""
 user_groups:
 - Alumni
 ---
-Experienced Graduate Research Assistant with a demonstrated history of working in the higher education industry. Skilled in FEM analysis, Structural Engineering, Data Analysis, Research, and Computer-Aided Engineering (CAE). Strong research professional with a Doctor of Philosophy - PhD focused in Structural Engineering from The University of Texas at Austin. 
+PhD with a demonstrated history of working in the higher education industry. Skilled in FEM analysis, Structural Engineering, Data Analysis, Research, and Computer-Aided Engineering (CAE). Strong research professional with a Doctor of Philosophy - PhD focused in Structural Engineering from The University of Texas at Austin. 
