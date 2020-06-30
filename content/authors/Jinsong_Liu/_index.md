@@ -28,12 +28,12 @@ education:
   #- course: Ph.D. in Civil Engineering
   #  institution: Stanford University
   #  year: 1993
-  #- course: M.S. in Civil Engineering and Applied Mechanics
-  #  institution: University of Virginia
-  #  year: 1986
+  - course: M.S. in Civil Engineering
+    institution: The University of Texas at Austin
+    year: 2015
   - course: B.S. in Naval Architecture and Ocean Engineering
     institution: Shanghai Jiao Tong University
-    year: 
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
