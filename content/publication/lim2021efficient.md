@@ -18,7 +18,7 @@ url_video = ""
     url = "https://doi.org/10.1115/1.4047545"
 
 [[links]]
-    name = "CODES"
+    name = "CODE"
     url = "https://github.com/hyeonguklim/longterm-extreme"
 
 +++
