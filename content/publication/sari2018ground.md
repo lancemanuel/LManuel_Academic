@@ -16,6 +16,6 @@ url_video = ""
 
 [[links]]
     name = "URL"
-    url = "https://www.taylorfrancis.com/books/e/9781315119908/chapters/10.1201/9781315119908-7"
+    url = ""
 
 +++
