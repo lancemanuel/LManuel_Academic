@@ -1,6 +1,6 @@
 +++
 title = "Challenges in Determining Most Likely Future Urban Hot Temperature Extremes by Mid-Century for the Central US"
-authors = ["Y Zhou","DE Jahn","WA Gallus Jr","Phong_Nguyen","Q Pan","K Cetin","E Byon","admin","Elham Jahani"]
+authors = ["Y Zhou","DE Jahn","WA Gallus Jr","Phong_Nguyen","Q Pan","K Cetin","E Byon","admin","E Jahani"]
 publication = "*AGUFM*"
 publication_types = ["1"] # 1: conference
 date = "2018-12"
