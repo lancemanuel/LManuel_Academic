@@ -19,9 +19,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-- Interest 1
-- Interest 2
-- Interest 3
+- FEM analysis
+- Structural Engineering
+- Data Analysis
 
 education:
   courses:
