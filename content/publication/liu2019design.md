@@ -1,6 +1,6 @@
 +++
 title = "Design loads for a large wind turbine supported by a semi-submersible floating platform"
-authors = ["Jinsong_Liu","Edwon_Thomas","Anshul_Goyal","admin"]
+authors = ["Jinsong_Liu","Edwin_Thomas","Anshul Goyal","admin"]
 publication = "*Renewable Energy*, 138, Pages: 923-936"
 publication_types = ["2"] # 2: journal paper
 date = "2019-08-01"
