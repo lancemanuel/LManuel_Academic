@@ -20,9 +20,10 @@ organizations:
 
 
 interests:
-- Interest 1
-- Interest 2
-- Interest 3
+- stochastic processes
+- reliability
+- resilience
+- climate change
 
 education:
   courses:
