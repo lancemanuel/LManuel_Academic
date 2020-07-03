@@ -19,9 +19,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-- Interest 1
-- Interest 2
-- Interest 3
+- Bayesian Statistical Inference
+- Uncertainty Reduction
+- Machine Learning 
 
 education:
   courses:
