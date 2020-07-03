@@ -1,6 +1,6 @@
 +++
 title = "On wind turbine loads during thunderstorm downbursts in contrasting atmospheric stability regimes"
-authors = ["Nan-You_Lu","Patrick Hawbecker", Sukanta Basu","admin"]
+authors = ["Nan-You_Lu","Patrick Hawbecker", "Sukanta Basu","admin"]
 publication = "*Energies*, 12(14)"
 publication_types = ["2"] # 2: journal
 date = "2019-01"
