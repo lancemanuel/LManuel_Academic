@@ -1,12 +1,12 @@
 +++
-title = "Design loads for a large wind turbine supported by a semi-submersible floating platform"
-authors = ["Jinsong_Liu","Edwin_Thomas","Anshul Goyal","admin"]
-publication = "*Renewable Energy*, 138, Pages: 923-936"
+title = "A statistical approach to account for azimuthal variability in single-station HVSR measurements"
+authors = ["Tianjian Cheng","Brady R Cox","Joseph P Vantassel","admin"]
+publication = "*Geophysical Journal International*, ggaa342"
 publication_types = ["2"] # 2: journal paper
-date = "2019-08-01"
-abstract= "The dynamic response and reliability analysis of a 13.2 MW offshore wind turbine supported by a moored semi-submersible platform is the subject of this study. Loads data for the extreme response analysis involve time-domain simulations for a range of sea states representative of expected site-specific metocean conditions. To gain deeper insight into the dynamic behavior of this system and to obtain long-term loads efficiently and accurately, two studies are carried out sequentially. First, the short-term response of the integrated system is studied based on 1-h simulations for sea states identified using the Environmental Contour method for a 50-year return period. Response extremes for the integrated wind turbine system as well as system sensitivity to metocean conditions are studied. Next, the long-term response associated with the 50-year return period is estimated using statistical extrapolation based on loads derived from the 1-h simulations. Inverse First-Order Reliability Method procedures are employed to seek appropriate response quantile levels, e.g., the median response for 2D Inverse FORM. A more comprehensive 3D approach, which accounts for system response uncertainties, improves long-term response estimates. A proposed adaptive procedure in the 3D approach helps determine the number of simulations needed to guarantee accuracy in the long-term response estimation."
+date = "2020-07-17"
+abstract= "The horizontal-to-vertical spectral ratio (HVSR) of ambient noise is commonly used to infer a site's resonance frequency (⁠f0,site⁠). HVSR calculations are performed most commonly using the Fourier amplitude spectrum obtained from a single merged horizontal component (e.g. the geometric mean component) from a three-component sensor. However, the use of a single merged horizontal component implicitly relies on the assumptions of azimuthally isotropic seismic noise and 1D surface and subsurface conditions. These assumptions may not be justified at many sites, leading to azimuthal variability in HVSR measurements that cannot be accounted for using a single merged component. This paper proposes a new statistical method to account for azimuthal variability in the peak frequency of HVSR curves (⁠f0,HVSR⁠). The method uses rotated horizontal components at evenly distributed azimuthal intervals to investigate and quantify azimuthal variability. To ensure unbiased statistics for f0,HVSR are obtained, a frequency-domain window-rejection algorithm is applied at each azimuth to automatically remove contaminated time windows in which the f0,HVSR values are statistical outliers relative to those obtained from the majority of windows at that azimuth. Then, a weighting scheme is used to account for different numbers of accepted time windows at each azimuth. The new method is applied to a dataset of 114 HVSR measurements with significant azimuthal variability in f0,HVSR⁠, and is shown to reliably account for this variability. The methodology is also extended to the estimation of a complete lognormal-median HVSR curve that accounts for azimuthal variability. To encourage the adoption of this statistical approach to accounting for azimuthal variability in single-station HVSR measurements, the methods presented in this paper have been incorporated into hvsrpy, an open-source Python package for HVSR processing."
 
-projects = ["On_the_Reliability_and_Global Performance_Analysis_of"]
+#projects = ["On_the_Reliability_and_Global Performance_Analysis_of"]
 
 url_code = ""
 url_dataset = ""
@@ -17,6 +17,6 @@ url_video = ""
 
 [[links]]
     name = "URL"
-    url = "https://doi.org/10.1016/j.renene.2019.02.011"
+    url = "https://doi.org/10.1093/gji/ggaa342"
 
 +++
