@@ -3,7 +3,7 @@ title= "Professional affiliations, technical committees, and journal affiliation
 +++
 
 Diplomate, Ocean Engineering (ASCE-ACOPNE); Fellow, ASME; Fellow, ASCE; Member, AAWE  
-Editor-in-Chief, ASME Journal of Offshore Mechanics and Arctic Engineering  
+[Editor-in-Chief, ASME Journal of Offshore Mechanics and Arctic Engineering](https://asmedigitalcollection.asme.org/offshoremechanics)  
 Associate Editor, ASCE Journal of Waterway, Port, Coastal and Ocean Engineering  
 Associate Editor, ASCE Journal of Infrastructure Systems  
 Associate Editor, Wind Engineering and Science, Frontiers in Built Environment  

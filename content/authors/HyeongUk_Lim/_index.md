@@ -3,18 +3,18 @@
 name: HyeongUk Lim
 # Username (this should match the folder name)
 authors:
-- HyeongUk_LIm
+- HyeongUk_Lim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Upstream Data Analyst at Stress Engineering Services, Inc.
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
-  url: "https://utexas.edu/"
+- name: Stress Engineering Services, Inc.
+  url: "https://www.stress.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: Uncertainty quantification; structural dynamics; structural reliability
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:hulim@utexas.edu".
+  link: "mailto:hyeonguklim@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/hyeongukl
@@ -65,6 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Fellows
+- Alumni
 ---
-I am working as a postdoctoral fellow under the supervision of Prof. Lance Manuel. I obtained B.E from Kyung Hee University and M.S from KAIST in South Korea. My research has focused on the development of computational methods that address surrogate modeling, sensitivity analysis, and dimension reduction for efficient uncertainty quantification in structural dynamics problems.
+I am working as an upstream data analyst in Stress Engineering Services. I obtained B.E from Kyung Hee University and M.S from KAIST in South Korea. My research has focused on the development of computational methods that address surrogate modeling, sensitivity analysis, and dimension reduction for efficient uncertainty quantification in structural dynamics problems.

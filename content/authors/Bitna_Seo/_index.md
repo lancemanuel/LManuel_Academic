@@ -1,40 +1,39 @@
 ---
 # Display name
-name: Taemin Heo
+name: Bitna Seo
 # Username (this should match the folder name)
 authors:
-- Taemin_Heo
+- Bitna_Seo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Master's Student/Bentley Systems Senior Application Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
-  url: "https://www.utexas.edu/"
+- name: Bentley Systems
+  url: "https://www.bentley.com/en"
 
 # Short bio (displayed in user profile at end of posts)
 
 
 interests:
-- stochastic processes
-- reliability
-- resilience
-- climate change
+- Interest 1
+- Interest 2
+- Interest 3
 
 education:
   courses:
   #- course: Ph.D. in Civil Engineering
   #  institution: Stanford University
   #  year: 1993
-  - course: M.S. in Civil Environmental Engineering
-    institution: Seoul National University
-    year:
-  - course: B.S. in Civil Environmental Engineering
-    institution: Seoul National University
+  - course: M.S. in Civil Engineering
+    institution: The University of Texas at Ausin
+    year: 
+  - course: B.S. in Civil Engineering
+    institution: Seoul National University of Science and Technology
     year:
 
 # Social/Academic Networking
@@ -68,4 +67,3 @@ email: ""
 user_groups:
 - Grad Students
 ---
-My name is Taemin Heo. I received B.S. and M.S. degrees in Civil Environmental Engineering from Seoul National University in South Korea. I joined UT CAEE MUSE in Fall 2018 for a Ph.D. degree under the supervision of Professor Lance Manuel. I am interested in stochastic processes. Currently, I am studying reliability, resilience and future risk increases of the spatiotemporal stochastic systems along with climate change.
