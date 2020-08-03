@@ -23,6 +23,7 @@ title= "Research collaborators and co-authors in various places:"
 - [Michael Borg](https://www.researchgate.net/profile/Michael_Borg2), Danish Technical University, Denmark
 
 ### Asia
+- [Sheng Dong](http://eweb.ouc.edu.cn/engineering/2014/0106/c4538a14766/page.psp), Ocean University of China, Qingdao, China
 - [Ying Min Low](http://www.eng.nus.edu.sg/cee/staff/low-ying-min/), National University of Singapore
 - [Jin-Hak Yi](https://www.researchgate.net/profile/Jin-Hak_Yi), KIOST, Ansan, Korea
 - Gil-Yim Yoon, KIOST, Ansan, Korea
