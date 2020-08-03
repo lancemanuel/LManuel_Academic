@@ -15,6 +15,7 @@ lastmod = ""
 [Chet Baker - But not for me (1954)](https://www.youtube.com/watch?v=R_f_mMJAezM")<br>
 [Eva Cassidy - Autumn leaves (1996)](https://www.youtube.com/watch?v=xXBNlApwh0c")<br>
 [Mercedes Sosa - Gracias a la vida (1971)](https://www.youtube.com/watch?v=cIrGQD84F1g")<br>
+[Mercedes Sosa - Todo Cambia (2013)](https://www.youtube.com/watch?v=0khKL3tTOTs)<br>
 [Cowboy Junkies - Sweet Jane (1987)](https://www.youtube.com/watch?v=BHRFZFmEq9o")<br>
 [The Pretenders - Back on the Chain Gang (1982)](https://www.youtube.com/watch?v=CK3uf5V0pDA&")<br>
 [David Bowie - Space Oddity (1972)](https://www.youtube.com/watch?v=iYYRH4apXDo")<br>
