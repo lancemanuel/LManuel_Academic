@@ -3,7 +3,7 @@
 name: Chi-Hsiang Huang
 # Username (this should match the folder name)
 authors:
-#- Chi-Hsiang_Huang
+- Chi-Hsiang_Huang
 
 # Is this the primary user of the site?
 superuser: false
