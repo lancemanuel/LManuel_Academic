@@ -6,6 +6,8 @@ lastmod = ""
 
 ... still here?  OK. Here are the random (mostly old, obscure and weird) music &#x266B samplings, as long as you're here ...<br>
 ... this began as a compilation to share a long time ago (don't ask why) ...<br>
+[Van Morrison - Into the Mystic (1970)](https://www.youtube.com/watch?v=syIUmrSJWAU)<br>
+[The Cranberries - Linger (1993)](https://www.youtube.com/watch?v=G6Kspj3OO0s)<br>
 [Paul Simon - American Tune (1975)](https://www.youtube.com/watch?v=AE3kKUEY5WU)<br>
 [Blaze Foley - Clay Pigeons (2005)](https://www.youtube.com/watch?v=KB_2CUj3y6Y")<br>
 [Supertramp - Give a Little Bit (1977)](https://www.youtube.com/watch?v=wptWEHGPhOk")<br>
@@ -22,6 +24,7 @@ lastmod = ""
 [Midnight Oil - Beds are Burning (1987)](https://www.youtube.com/watch?v=ejorQVy3m8E")<br>
 <br>
 and some voice, chants, a cappella, arias, unpluggeds, amateur arrangements, etc. ...<br>
+[Harvest Moon (Neil Young) ... cover by Reina del Cid, Josh Turner, etc.](https://www.youtube.com/watch?v=RI16dMyPZh4)<br>
 [Starman (David Bowie) ... cover by Josh Turner](https://www.youtube.com/watch?v=dxI7QfoCO3s")<br>
 [Bohemian Rhapsody (Queen) ... a capella cover](https://www.youtube.com/watch?v=I7v5gpWe8ds")<br>
 [Titanium (David Guetta) ... a capella cover](https://www.youtube.com/watch?v=11Y6Tqw17BM")<br>
