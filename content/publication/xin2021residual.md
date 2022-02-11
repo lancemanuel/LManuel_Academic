@@ -1,6 +1,6 @@
 +++
 title = "Residual stress effects on fatigue life prediction using hardness measurements for butt-welded joints made of high strength steels"
-authors = ["Haohui Xin", "José AFO Correia", "Milan Veljkovic", "Filippo Berto","admin"]
+authors = ["Haohui Xin", "José AFO Correia", "Milan Veljkovic", "Filippo Berto", "admin"]
 publication = "*International Journal of Fatigue*, Vol 147, 106175"
 publication_types = ["2"] # 2: journal
 date = "2021-06-01"
