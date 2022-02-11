@@ -2,6 +2,8 @@
 title= "Other activities at UT that I'm involved with:"
 +++
 
-Advisor, CAEE Deparment Honors Program Advisor  
-Member, Graduate Curricula and Policies Committee  
-Chair, CAEE Department Faculty Evaluation Committee
+Associate Chair, Civil Engineering - CAEE
+Member, CAEE Advisory Committee
+Member, CAEE Curriculum and Accreditation Committee
+Member, CAEE Graduate Policies and Recruiting Committee
+Member, CAEE Internship Steering Committee
