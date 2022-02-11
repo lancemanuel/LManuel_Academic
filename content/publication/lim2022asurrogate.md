@@ -1,6 +1,6 @@
 +++
-title = "test Distribution-free polynomial chaos expansion surrogate models for efficient structural reliability analysis"
-authors = ["HyeongUk_Lim","admin","Ying Min Low","Narakorn Srinil"]
+title = "A surrogate model for estimating uncertainty in marine riser fatigue damage resulting from vortex-induced vibration"
+authors = ["HyeongUk_Lim","admin"]
 publication = "*Engineering Structures*, Vol 254, 113796"
 publication_types = ["2"] # 2: journal
 date = "2022-03-01"
