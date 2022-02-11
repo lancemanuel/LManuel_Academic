@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
-  url: "https://www.utexas.edu/"
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -25,9 +25,9 @@ interests:
 
 education:
   courses:
-  #- course: Ph.D. in Civil Engineering
-  #  institution: Stanford University
-  #  year: 1993
+  - course: Ph.D. in Civil Engineering
+    institution: The University of Texas at Austin
+    year: 2021
   - course: M.S. in Civil Engineering
     institution: The University of Texas at Austin
     year: 2015
@@ -64,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 My name is Jinsong Liu. I graduated from Shanghai Jiao Tong University with a B.S. degree in Naval Architecture and Ocean Engineering. I joined UT in the fall of 2013 and my research advisor is Dr. Lance Manuel. My current research topic is related to the modeling and simulation of a floating offshore wind turbine.
