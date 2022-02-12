@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate_List
+- Undergrad Students
 ---
 Aaron Sterns, Academic Year 2002-03 [TREX Scholar and Sandia Summer Intern]  
 Brenda Guerra, Academic Year 2003-04 [TREX Scholar]  
