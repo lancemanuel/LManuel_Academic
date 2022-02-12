@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student/Bentley Systems Senior Application Engineer
+role: Bentley Systems Senior Application Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   #  year: 1993
   - course: M.S. in Civil Engineering
     institution: The University of Texas at Ausin
-    year: 
+    year: 2021
   - course: B.S. in Civil Engineering
     institution: Seoul National University of Science and Technology
     year:
@@ -65,5 +65,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
