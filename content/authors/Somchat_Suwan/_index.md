@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate in Energy Infrastructure at Arup
+role: Structural Lead in Offshore Wind at COWI
 
 # Organizations/Affiliations
 organizations:
 - name: Arup
-  url: "https://www.arup.com/"
+  url: "https://www.cowi.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
