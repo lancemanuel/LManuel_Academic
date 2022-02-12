@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Manager at Omega-risk
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Omega-risk
-  url: "https://www.omega-risk.com/"
+- name: Istanbul Technical University
+  url: "https://www.itu.edu.tr/en"
 
 # Short bio (displayed in user profile at end of posts)
 
