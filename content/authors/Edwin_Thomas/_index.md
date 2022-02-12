@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate II at Datum Engineers
+role: Associate at Datum Engineers
 
 # Organizations/Affiliations
 organizations:
