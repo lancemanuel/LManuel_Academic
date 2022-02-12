@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Engineer at KBR
+role: Technical Professional – KBR/Energo Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: KBR
+- name: KBR/Energo Engineering
   url: "https://www.kbr.com/"
 
 # Short bio (displayed in user profile at end of posts)
