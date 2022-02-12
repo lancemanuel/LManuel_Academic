@@ -64,12 +64,12 @@ superuser: false
 user_groups:
 - Undergrad Students
 ---
-Current:
+### Current:  
 Kaushik Katta, Academic Year 2021-22  
 Jennings Ye, Academic Year 2021-22  
 
 
-Previous:
+### Previous:  
 Aaron Sterns, Academic Year 2002-03 [TREX Scholar and Sandia Summer Intern]  
 Brenda Guerra, Academic Year 2003-04 [TREX Scholar]  
 Victoria McCammon, Summer 2004  
