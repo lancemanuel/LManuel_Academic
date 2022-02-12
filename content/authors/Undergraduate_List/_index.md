@@ -1,6 +1,6 @@
 ---
 # Display name
-name: List of Undergrad Students
+name: List
 # Username (this should match the folder name)
 authors:
 - Undergraduate_List
@@ -9,20 +9,20 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+#role: 
 
 # Organizations/Affiliations
-organizations:
-- name: 
-  url: 
+#organizations:
+#- name: 
+#  url: 
 
 # Short bio (displayed in user profile at end of posts)
 
 
-interests:
+#interests:
 
 #education:
-  courses:
+ # courses:
   #- course: Ph.D. in Civil Engineering
   #  institution: Stanford University
   #  year: 1993
@@ -37,7 +37,7 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:lmanuel@mail.utexas.edu".
@@ -57,13 +57,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Undergrad Students
 ---
+Current:
+Kaushik Katta, Academic Year 2021-22  
+Jennings Ye, Academic Year 2021-22  
+
+
+Previous:
 Aaron Sterns, Academic Year 2002-03 [TREX Scholar and Sandia Summer Intern]  
 Brenda Guerra, Academic Year 2003-04 [TREX Scholar]  
 Victoria McCammon, Summer 2004  
