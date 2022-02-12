@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor at China University of Petroleum
+role: Associate Professor at Harbin Institute of Technology (Weihai Campus)
 
 # Organizations/Affiliations
 organizations:
-- name: China University of Petroleum (East China)
-  url: "http://english.upc.edu.cn/"
+- name: Harbin Institute of Technology (Weihai Campus)
+  url: "http://en.hit.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 

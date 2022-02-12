@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Associate Professor at Istanbul Technical University
 
 # Organizations/Affiliations
 organizations:
