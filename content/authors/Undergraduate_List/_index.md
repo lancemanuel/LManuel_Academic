@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Undergrad Students
+name: List of Undergrad Students
 # Username (this should match the folder name)
 authors:
 - Undergraduate_List
@@ -21,7 +21,7 @@ organizations:
 
 interests:
 
-education:
+#education:
   courses:
   #- course: Ph.D. in Civil Engineering
   #  institution: Stanford University
