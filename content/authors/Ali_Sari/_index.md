@@ -13,7 +13,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Istanbul Technical University
+- name: Istanbul Technical University (Civil Engineering)
   url: "https://www.itu.edu.tr/en"
 
 # Short bio (displayed in user profile at end of posts)

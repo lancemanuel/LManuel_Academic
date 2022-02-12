@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Seismic Imaging Analyst at CGG
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: CGG
-  url: "https://www.cgg.com/"
+- name:  National Taiwan University (Mechanical Engineering)
+  url: "http://www.eng.ntu.edu.tw/EN/index.aspx"
 
 # Short bio (displayed in user profile at end of posts)
 
