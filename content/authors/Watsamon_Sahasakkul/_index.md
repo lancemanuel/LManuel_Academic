@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Structural Engineer at DNV GL
+role: Senior Structural Engineer at DNV
 
 # Organizations/Affiliations
 organizations:
-- name: DNV GL
-  url: "https://www.dnvgl.com/"
+- name: DNV
+  url: "https://www.dnv.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
