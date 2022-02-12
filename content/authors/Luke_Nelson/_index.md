@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Principal at Datum Engineers, Inc.
+role: Managing Principal at Datum Engineers, Inc.
 
 # Organizations/Affiliations
 organizations:
