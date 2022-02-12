@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate at WSP
+role: Principal at SR+A Structural Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: WSP
-  url: "https://www.wsp.com/"
+- name: SR+A Structural Engineers
+  url: "https://www.sra-se.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
