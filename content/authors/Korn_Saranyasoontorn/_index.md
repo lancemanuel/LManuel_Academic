@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Team Leader at PTTEP
+role: Vice President at PTT Exploration and Production Public Co. Ltd., Thailand
 
 # Organizations/Affiliations
 organizations:
