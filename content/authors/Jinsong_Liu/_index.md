@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD
+role: Wind Turbine Design Engineer at United Power, China
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: United Power, China
   url: 
 
 # Short bio (displayed in user profile at end of posts)

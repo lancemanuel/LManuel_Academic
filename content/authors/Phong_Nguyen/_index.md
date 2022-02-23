@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer at HCMUT
+role: Lecturer at Ho Chi Minh University of Technology, Vietnam
 
 # Organizations/Affiliations
 organizations:

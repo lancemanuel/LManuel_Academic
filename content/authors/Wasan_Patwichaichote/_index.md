@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Faculty at Chulachomklao Royal Military Academy, Thailand
 
 # Organizations/Affiliations
 organizations:
-- name: Thai Military
+- name: Chulachomklao Royal Military Academy, Thailand
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

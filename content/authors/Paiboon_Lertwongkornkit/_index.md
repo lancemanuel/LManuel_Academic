@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Senior Vice President at C.I.T. Corporation Ltd., Thailand
 
 # Organizations/Affiliations
 organizations:
-- name: Carter Holt Harvey
+- name: C.I.T. Corporation Ltd., Thailand
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

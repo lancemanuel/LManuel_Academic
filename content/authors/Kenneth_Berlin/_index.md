@@ -9,11 +9,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Engineer at Haynes Whaley Associates
+role: CEO at 12Twenty
 
 # Organizations/Affiliations
 organizations:
-- name: Haynes Whaley Associates
+- name: 12Twenty
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

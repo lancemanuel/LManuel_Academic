@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Office Director at Engineering Ministries International (EMI)
+role: Senior Engineer, Pacific Engineering & Design
 
 # Organizations/Affiliations
 organizations:
-- name: Engineering Ministries International (EMI)
-  url: "https://emiworld.org/"
+- name: Pacific Engineering & Design
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 

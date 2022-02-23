@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Structural Engineer at AqualisBraemar
+role: Senior Structural Engineer at Ørsted
 
 # Organizations/Affiliations
 organizations:
-- name: AqualisBraemar
-  url: "https://aqualisbraemar.com/"
+- name: Ørsted
+  url: "https://us.orsted.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 

@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MBA Candidate at London Business School
+role: Associate at McKinsey & Company
 
 # Organizations/Affiliations
 organizations:
-- name: London Business School
-  url: "https://www.london.edu/"
+- name: McKinsey & Company
+  url: "https://www.mckinsey.com/"
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 

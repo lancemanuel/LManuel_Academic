@@ -9,12 +9,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Specialist at Technip/Genesis
+role: Economic Development Manager at KPMG, India
 
 # Organizations/Affiliations
 organizations:
-- name: Technip/Genesis
-  url: "https://www.genesisenergies.com/"
+- name: KPMG, India
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 Technical Interests: 
