@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-#  - course: M.S. in Civil Engineering
+#  - course: M.S. in Civil Engineering (Structures)
 #    institution: The University of Texas at Austin
 #    year: 2001
 #  - course: B.S. in Civil Engineering
