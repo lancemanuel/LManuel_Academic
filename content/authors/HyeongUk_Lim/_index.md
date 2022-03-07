@@ -67,4 +67,4 @@ email: ""
 user_groups:
 - Alumni
 ---
-I am working as an upstream data analyst in Stress Engineering Services. I obtained my B.E. degree from Kyung Hee University and my M.S. from KAIST in South Korea. My research has focused on the development of computational methods that address surrogate modeling, sensitivity analysis, and dimension reduction for efficient uncertainty quantification in structural dynamics problems.
+I am working as an upstream data analyst with Stress Engineering Services. I obtained my B.E. degree from Kyung Hee University and my M.S. from KAIST in South Korea. My research has focused on the development of computational methods that address surrogate modeling, sensitivity analysis, and dimension reduction for efficient uncertainty quantification in structural dynamics problems.
