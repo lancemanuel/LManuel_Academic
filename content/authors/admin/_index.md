@@ -70,7 +70,7 @@ user_groups:
 
 My research at UT-Austin, these days, is related to uncertainty quantification associated with the modeling and design of engineered systems, mainly civil engineering works and energy-generating structures. My work is focused on improving design criteria for wind turbines for complex inflow turbulence conditions and on the long-term performance of deepwater offshore floating structures. Past research and review work of mine has been related to probabilistic risk assessment of nuclear power plants and reactors; reliability of dam projects; probabilistic seismic hazard and ground motion analyses; and stochastic response of fixed and floating offshore platforms. Prior to my joining the faculty at UT, I worked for 5 years as a consulting engineer with Jack R. Benjamin & Associates, Inc. in Mountain View, California, and for 2 years with the mechanics and materials group at Exponent, Inc. (formerly, Failure Analysis Associates) in Menlo Park, California.
 
-[- Other activities at UT that I'm involved with](https://lancemanuel.netlify.com/post/affiliation/)  
+[- Other UT activities that I'm involved with](https://lancemanuel.netlify.com/post/affiliation/)  
 [- Professional affiliations, technical committees, and journal affiliations](https://lancemanuel.netlify.com/post/affiliation2/)  
 [- Research collaborators and co-authors in various places](https://lancemanuel.netlify.com/post/collaborators/)  
 [- Visitors in research group](https://lancemanuel.netlify.com/post/visitors/)
