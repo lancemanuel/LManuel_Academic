@@ -23,6 +23,7 @@ interests:
 - Uncertainty Quantification
 - Wind Energy
 - Offshore Structures
+- Climate Extremes
 
 education:
   courses:
