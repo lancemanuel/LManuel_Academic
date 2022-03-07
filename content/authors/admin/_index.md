@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: TAE Research Foundation <br>Professor of Engineering
+role: Texas Atomic Energy Research Foundation <br>Professor of Engineering
 
 # Organizations/Affiliations
 organizations:
