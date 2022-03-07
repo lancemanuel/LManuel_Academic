@@ -1,6 +1,6 @@
 ---
 # Display name
-name: List
+name: List (all 42 students ... to date)
 # Username (this should match the folder name)
 authors:
 - Undergraduate_List
