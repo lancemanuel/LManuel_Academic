@@ -28,7 +28,8 @@ and some voice, chants, a cappella, arias, unpluggeds, amateur arrangements, etc
 [Starman (David Bowie) ... cover by Josh Turner](https://www.youtube.com/watch?v=dxI7QfoCO3s")<br>
 [Bohemian Rhapsody (Queen) ... a capella cover](https://www.youtube.com/watch?v=I7v5gpWe8ds")<br>
 [Titanium (David Guetta) ... a capella cover](https://www.youtube.com/watch?v=11Y6Tqw17BM")<br>
-[America (Simon/Garfunkel)](https://www.youtube.com/watch?v=sFAoWwUwknc")<br>
+[Africa (Toto) ... a brilliant arrangement by Angel City Chorale](href="https://www.youtube.com/watch?v=-c9-poC5HGw" target="_blank")<br>
+[America (Simon/Garfunkel)](href="https://www.youtube.com/watch?v=sFAoWwUwknc" target="_blank")<br>
 [Kathy's Song (Simon/Garfunkel)](https://www.youtube.com/watch?v=fXZyDtzDJMY")<br>
 [New Coat of Paint (Tom Waits)](https://www.youtube.com/watch?v=mpUa2a5Kg3A")<br>
 [L'amer&#242 sar&#242 costante (Mozart - Sonya Yoncheva)](https://www.youtube.com/watch?v=KvMfBcai6DA")<br>
@@ -45,14 +46,18 @@ books/authors:<br>
 Light in August - William Faulkner<br>
 Waiting - Ha Jin<br>
 The Alchemist - Paulo Coelho<br>
-The Journey of Ibn Fattouma - Naguib Mahfouz [sample: The darkness began to clear and streaks of light loomed on the horizon until it became tinged with a smiling redness, and the eyebrow of the sun emerged, unrolling light over a limitless desert.]<br>
+The Journey of Ibn Fattouma - Naguib Mahfouz [sample: The darkness began to clear and streaks of light loomed on the horizon until it became tinged with a smiling redness, and the eyebrow of the sun emerged, unrolling light over a limitless desert.](<i>LM: Wow!  Incredible, magical writing!</i>)<br>
+Anxious People - Fredrik Backman (<i>LM: Truly refreshing sensibility; authentic; a treat and an easy read!</i>)<br>
+Together - Vivek H. Murthy<br>
 <br>
 podcasts:<br>
 Radiolab<br>
 The Moth<br>
+3 books<br>
 <br>
-genius artists/bands - you may not agree:<br>
-Chet Baker<br>
+genius artists/bands - you may not agree and I'm showing my age! :)<br>
+Joan Armatrading <a class="1" href="https://www.youtube.com/watch?v=WcVgAlVSArA" target="_blank">1</a><br>
+Chet Baker (jazz) <a class="1" href="https://www.youtube.com/watch?v=sIoquPMcG_E" target="_blank">1</a> <a class="1" href="https://www.youtube.com/watch?v=3zrSoHgAAWo" target="_blank">2</a><br>
 Clifford Brown<br>
 Guy Clark<br>
 Robert Cray<br>
@@ -77,6 +82,7 @@ The Smiths <a class="1" href="https://www.youtube.com/watch?v=hz0UADjaHKo&list=R
 Suma Paz<br>
 John Prine<br>
 Mercedes Sosa<br>
+Cat Stevens <a class="1" href="https://www.youtube.com/watch?v=Eb4kfolKwGA" target="_blank">1</a><br>
 Otto Tolonen<br>
 Ali Farka Tour&eacute<br>
 Josh Turner Guitar, not the other (country) Josh Turner <a class="1" href="https://www.youtube.com/watch?v=NtYKjQLgnOs" target="_blank">1 (what a cover!)</a>
