@@ -64,7 +64,7 @@ superuser: false
 user_groups:
 - Undergrad Students
 ---
-## Undergraduate students currently working with me on research projects  
+## Current and former undergraduate research assistants  
 
 ### Current:  
 Kaushik Katta, Academic Year 2021-22  
