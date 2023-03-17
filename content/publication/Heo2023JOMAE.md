@@ -7,6 +7,7 @@ abstract= "An offshore energy transition, even if only a gradual one, from carbo
 
 url_code = "" url_dataset = "" url_pdf = "" url_project = "" url_slides = "" url_video = ""
 
-[[links]] name = "URL" url = "https://doi.org/10.1115/1.4056943"
-
+[[links]] 
+  name = "URL" 
+  url = "https://doi.org/10.1115/1.4056943"
 +++
