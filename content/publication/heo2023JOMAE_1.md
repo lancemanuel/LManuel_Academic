@@ -1,6 +1,6 @@
 +++
 title = "Assessing Fatigue Damage in the Reuse of a Decommissioned Offshore Jacket Platform to Support a Wind Turbine"
-authors = ["Taemin_Heo", "Ding Peng Liu", "admn", "José A.F.O. Correia", "Paulo Mendes"]
+authors = ["Taemin_Heo", "Ding Peng Liu", "admin", "José A.F.O. Correia", "Paulo Mendes"]
 publication = "J. Offshore Mech. Arct. Eng. Aug 2023, 145(4):042002 (8 pages)"
 publication_types = ["2"] # 2: journal paper
 date = "2023-03-07"
