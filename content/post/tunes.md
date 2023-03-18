@@ -28,8 +28,8 @@ and some voice, chants, a cappella, arias, unpluggeds, amateur arrangements, etc
 [Starman (David Bowie) ... cover by Josh Turner](https://www.youtube.com/watch?v=dxI7QfoCO3s")<br>
 [Bohemian Rhapsody (Queen) ... a capella cover](https://www.youtube.com/watch?v=I7v5gpWe8ds")<br>
 [Titanium (David Guetta) ... a capella cover](https://www.youtube.com/watch?v=11Y6Tqw17BM")<br>
-[Africa (Toto) ... a brilliant arrangement by Angel City Chorale](href="https://www.youtube.com/watch?v=-c9-poC5HGw" target="_blank")<br>
-[America (Simon/Garfunkel)](href="https://www.youtube.com/watch?v=sFAoWwUwknc" target="_blank")<br>
+[Africa (Toto) ... a brilliant arrangement by Angel City Chorale](https://www.youtube.com/watch?v=-c9-poC5HGw")<br>
+[America (Simon/Garfunkel)](https://www.youtube.com/watch?v=sFAoWwUwknc")<br>
 [Kathy's Song (Simon/Garfunkel)](https://www.youtube.com/watch?v=fXZyDtzDJMY")<br>
 [New Coat of Paint (Tom Waits)](https://www.youtube.com/watch?v=mpUa2a5Kg3A")<br>
 [L'amer&#242 sar&#242 costante (Mozart - Sonya Yoncheva)](https://www.youtube.com/watch?v=KvMfBcai6DA")<br>
