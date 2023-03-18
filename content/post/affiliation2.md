@@ -8,6 +8,7 @@ Fellow, AAAS; Fellow, ASME; Fellow, ASCE; Fellow, ASCE-SEI; Diplomate, Ocean Eng
 [Associate Editor, ASCE Journal of Waterway, Port, Coastal and Ocean Engineering](https://ascelibrary.org/journal/jwped5)<br>
 [Associate Editor, ASCE Journal of Infrastructure Systems](https://ascelibrary.org/journal/jitse4)<br>
 [Associate Editor, Frontiers in Built Environment (Wind Engineering and Science)](https://www.frontiersin.org/journals/built-environment/sections/wind-engineering-and-science)<br>
+[Editorial Board Member, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/journal/rsta)<br>
 [Editorial Board Member, Energies](https://www.mdpi.com/journal/energies)<br>
 [Editorial Board Member, Journal of Marine Science and Engineering](https://www.mdpi.com/journal/jmse)<br>
 [Editorial Board Member, Wind Engineering](https://journals.sagepub.com/home/wie)<br><br>
