@@ -11,9 +11,9 @@ Member, Sigma Xi; Member, Tau Beta Pi<br><br>
 [Associate Editor, ASCE Journal of Waterway, Port, Coastal and Ocean Engineering](https://ascelibrary.org/journal/jwped5)<br>
 [Associate Editor, ASCE Journal of Infrastructure Systems](https://ascelibrary.org/journal/jitse4)<br>
 [Associate Editor, Frontiers in Built Environment (Wind Engineering and Science)](https://www.frontiersin.org/journals/built-environment/sections/wind-engineering-and-science)<br><br>
-[Editorial Board Member, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/journal/rsta)<br>
-[Editorial Board Member, Energies](https://www.mdpi.com/journal/energies)<br>
-[Editorial Board Member, Journal of Marine Science and Engineering](https://www.mdpi.com/journal/jmse)<br>
-[Editorial Board Member, Wind Engineering](https://journals.sagepub.com/home/wie)<br><br>
+[Editorial Board, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/journal/rsta)<br>
+[Editorial Board, Energies](https://www.mdpi.com/journal/energies)<br>
+[Editorial Board, Journal of Marine Science and Engineering](https://www.mdpi.com/journal/jmse)<br>
+[Editorial Board, Wind Engineering](https://journals.sagepub.com/home/wie)<br><br>
 
 [Member, U.S. National Committee for IEC TC 88-MT1 (Design Requirements for Wind Turbines)](https://www.iec.ch/dyn/www/f?p=103:14:11449838595882::::FSP_ORG_ID,FSP_LANG_ID:2830,25)<br><br>
