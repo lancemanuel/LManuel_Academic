@@ -5,7 +5,9 @@ title= "Professional affiliations, technical committees, and journal affiliation
 Fellow, AAAS; Fellow, ASME; Fellow, ASCE; Fellow, ASCE-SEI<br>
 Diplomate, Ocean Engineering (ASCE-ACOPNE)<br>
 Member, AAWE<br>
-Member, Sigma Xi; Member, Tau Beta Pi<br><br>
+Member, Sigma Xi; Member, Tau Beta Pi<br><br><br>
+
+[Member, Marine Board](https://www.nationalacademies.org/our-work/marine-board#sectionCommittee)(term: 2022-2025)<br><br>
 
 [Editor-in-Chief, ASME Journal of Offshore Mechanics and Arctic Engineering](https://asmedigitalcollection.asme.org/offshoremechanics)<br><br>
 [Associate Editor, ASCE Journal of Waterway, Port, Coastal and Ocean Engineering](https://ascelibrary.org/journal/jwped5)<br>
