@@ -67,10 +67,10 @@ user_groups:
 ## Current and former undergraduate research assistants  
 
 ### Current:  
-Avery Brennen, Academic Year 2022-23
-Zoe Chen, Academic Year 2022-23
-Mari Dalton, Academic Year 2022-23
-Joshua Epps, Academic Year 2022-23
+Avery Brennen, Academic Year 2022-23  
+Zoe Chen, Academic Year 2022-23  
+Mari Dalton, Academic Year 2022-23  
+Joshua Epps, Academic Year 2022-23  
 
 ### Previous:  
 Aaron Sterns, Academic Year 2002-03 [TREX Scholar and Sandia Summer Intern]  
