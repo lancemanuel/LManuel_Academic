@@ -67,9 +67,10 @@ user_groups:
 ## Current and former undergraduate research assistants  
 
 ### Current:  
-Kaushik Katta, Academic Year 2021-22  
-Jennings Ye, Academic Year 2021-22  
-
+Joshua Epps, Academic Year 2022-23
+Mari Dalton, Academic Year 2022-23
+Zoe Chen, Academic Year 2022-23
+Avery Brennen, Academic Year 2022-23
 
 ### Previous:  
 Aaron Sterns, Academic Year 2002-03 [TREX Scholar and Sandia Summer Intern]  
@@ -111,5 +112,8 @@ Michael Ramirez, January - May 2019
 Nathan Zhang, January - May 2019  
 Elton Nguyen, Academic Year 2019-20 [TREX Scholar]  
 David Chen, Academic Year 2020-21  
-Aneesa Mohammed, Academic Year 2020-21 [TREX Scholar]  
+Aneesa Mohammed, Academic Year 2020-21 [TREX Scholar]
+Kaushik Katta, Academic Year 2021-22  
+Jennings Ye, Academic Year 2021-22
+
 *[Part of UT Heat Island Team]
